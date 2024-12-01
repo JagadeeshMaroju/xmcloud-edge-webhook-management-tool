@@ -7,7 +7,7 @@ This tool can be added without code to any environment.
 
 **Step 1**: Install the Sitecore Package.
 
-Download the Sitecore Package from this repo (JSONViewer_SitecorePackage_2024-09-24.zip).
+Download the Sitecore Package from this repo (edge_webhooks_management_sitecore_package.zip).
 
 Install on your XM Cloud environments:
 
