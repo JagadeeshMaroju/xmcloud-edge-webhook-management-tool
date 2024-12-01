@@ -1,5 +1,5 @@
 # xmcloud-edge-webhook-management-tool
-Sitecore powershell **(SPE) module** experience edge webhook management tool to create/update and delete webhooks of the edge admin API. Useful for developers for managing the experience edge webhooks.
+Sitecore powershell **(SPE) module** experience edge webhook management tool to create, update and delete webhooks of the edge admin API. Useful for developers for managing the experience edge webhooks.
 
 # INSTALLATION
 
